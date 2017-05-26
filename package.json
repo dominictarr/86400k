@@ -1,0 +1,14 @@
+{
+  "name": "86400k",
+  "description": "the number of milliseconds in one day, as a module",
+  "version": "86.400.000",
+  "homepage": "https://github.com/dominictarr/86400k",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/86400k.git"
+  },
+  "author": "'Dominic Tarr' <dominic.tarr@gmail.com> (http://dominictarr.com)",
+  "license": "MIT"  
+}
+
+
